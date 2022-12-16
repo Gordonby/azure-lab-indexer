@@ -19,4 +19,5 @@ Let's rate and index those labs!
 - Localisation (Fixed to language / Genericised)
 - FILE-TYPES (binaries = bad)
 - TEAM (maintaining team breadth)
-
+- Individual page LENGTH
+- Commit messages (Readable / Conventional)
